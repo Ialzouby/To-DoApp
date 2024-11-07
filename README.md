@@ -1,7 +1,7 @@
 <h1 align="center">📝 To-DoApp</h1>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/3o7aD2saalBwwftBIY/giphy.gif" alt="To-DoApp Logo">
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbnlxY3I2djB6ZHJoOGhyYmVmMzJia3lzb2cyaG5jb2Rsdng5cGk0cCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/HZrx8kjIA7lyeTqXVM/giphy.gif" alt="To-DoApp Logo">
 </p>
 
 <p>Welcome to the <strong>To-DoApp</strong> project! This application is a task management tool designed to help users organize and track their daily activities efficiently. Built with Swift and utilizing the Realm database, To-DoApp offers a seamless experience for managing tasks on iOS devices.</p>
